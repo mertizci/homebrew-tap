@@ -7,8 +7,8 @@
 #
 # After each release, update `version` and `sha256` (printed by scripts/release.sh).
 cask "browser-picker" do
-  version "1.0.1"
-  sha256 "df14a19f3395a2547116cd3b6764e97f1fbd4ee002eb319e2c33ee397ff0589c"
+  version "1.0.2"
+  sha256 "5cce4a35130dc7910150ae1a19758b2bbaf52433d1b043b5c2a5682cae6b33ba"
 
   url "https://github.com/mertizci/browser-picker/releases/download/v#{version}/BrowserPicker-#{version}.zip"
   name "Browser Picker"
