@@ -8,8 +8,8 @@
 # mertizci/duckows. Keep the two-space indentation on those two lines — the
 # sed-based bump anchors on it.
 cask "duckows" do
-  version "0.2.0"
-  sha256 "c244e4999114e870580177105a81017fdba21e343ec17b2bce50f7ed62c5d628"
+  version "0.3.0"
+  sha256 "26ae343326cdbd464cecffe81b1b7fe1567434f1dabeafd8f9baf23649a43238"
 
   url "https://github.com/mertizci/duckows/releases/download/v#{version}/Duckows-#{version}.zip"
   name "Duckows"
