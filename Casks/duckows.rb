@@ -9,7 +9,7 @@
 # sed-based bump anchors on it.
 cask "duckows" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "99d1ae181f7896d216e36ad996fdb8a9bb4c0f82a174b246eae1fb8272234103"
 
   url "https://github.com/mertizci/duckows/releases/download/v#{version}/Duckows-#{version}.zip"
   name "Duckows"
