@@ -20,7 +20,7 @@ cask "duckows" do
   # not roll a self-updated copy back to whatever the cask last recorded.
   auto_updates true
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Duckows.app"
 
