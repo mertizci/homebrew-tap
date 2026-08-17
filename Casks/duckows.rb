@@ -38,6 +38,11 @@ cask "duckows" do
   ]
 
   caveats <<~EOS
+    First launch: open Duckows from Applications and click "Open" when macOS
+    asks about an app downloaded from the Internet. Duckows has no Dock icon
+    and no window of its own, so if that prompt is dismissed or missed it
+    looks like nothing happened — the app is simply waiting for the answer.
+
     Duckows needs Accessibility to read window titles and move windows.
     Grant it in System Settings -> Privacy & Security -> Accessibility,
     then relaunch Duckows.
