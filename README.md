@@ -18,3 +18,11 @@ Start menu, your open windows by name, and a system tray.
 ```bash
 brew install --cask mertizci/tap/duckows
 ```
+
+## Thermal Printer Simulator
+
+Virtual ESC/POS and Star printers for macOS, with receipt previews and a CLI.
+
+```bash
+brew install --cask mertizci/tap/thermal-printer-simulator
+```
