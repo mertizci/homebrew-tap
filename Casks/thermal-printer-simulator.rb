@@ -7,8 +7,8 @@
 #
 # `version` and `sha256` are bumped automatically by .github/workflows/release.yml.
 cask "thermal-printer-simulator" do
-  version "1.0.0"
-  sha256 "8344b2bf440fd4282e85b8b2aaf8d13740668212ce346b55348e16f5d1725d95"
+  version "1.0.1"
+  sha256 "6a4481c2dc57c3e2766365a7bc1c1bfda43fbbf5073767120f3f57eabc298f38"
 
   url "https://github.com/mertizci/thermal-printer-simulator/releases/download/v#{version}/ThermalPrinterSimulator-#{version}.zip"
   name "Thermal Printer Simulator"
